@@ -1,0 +1,10 @@
+C:\Users\Kong8\source\repos\getsource\getsource\obj\Debug\getsource.csprojAssemblyReference.cache
+C:\Users\Kong8\source\repos\getsource\getsource\obj\Debug\getsource.grtsource.resources
+C:\Users\Kong8\source\repos\getsource\getsource\obj\Debug\getsource.Properties.Resources.resources
+C:\Users\Kong8\source\repos\getsource\getsource\obj\Debug\getsource.csproj.GenerateResource.cache
+C:\Users\Kong8\source\repos\getsource\getsource\obj\Debug\getsource.csproj.CoreCompileInputs.cache
+C:\Users\Kong8\source\repos\getsource\getsource\bin\Debug\getsource.exe.config
+C:\Users\Kong8\source\repos\getsource\getsource\bin\Debug\getsource.exe
+C:\Users\Kong8\source\repos\getsource\getsource\bin\Debug\getsource.pdb
+C:\Users\Kong8\source\repos\getsource\getsource\obj\Debug\getsource.exe
+C:\Users\Kong8\source\repos\getsource\getsource\obj\Debug\getsource.pdb
